@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.4)
+  - CryptoSwift (1.4.2)
+  - SideMenu (6.5.0)
+  - SwiftChart (1.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CryptoSwift
+  - SideMenu
+  - SwiftChart
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - SideMenu
+    - SwiftChart
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  CryptoSwift: a532e74ed010f8c95f611d00b8bbae42e9fe7c17
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SwiftChart: ba767a678d568a5ee22d419e146a0582865e1aff
+
+PODFILE CHECKSUM: e400376313e61a184cfae95296924ec2691e5735
+
+COCOAPODS: 1.11.0
